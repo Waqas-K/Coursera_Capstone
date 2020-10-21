@@ -1,3 +1,3 @@
 # Coursera_Capstone
 
-Course Era Capstone Project
+Coursera Capstone Project
